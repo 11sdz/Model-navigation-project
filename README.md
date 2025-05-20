@@ -10,6 +10,13 @@ This repository contains scripts for preparing, augmenting, and training image d
 6. **Train Model**: Use `train-kfold.py` to train the model using k-fold cross-validation.
 7. **Predict**: Use `predict.py` to run predictions on new videos.
 
+## Predictions
+
+[![Playlist Thumbnail](https://img.youtube.com/vi/QwVPU2DNS0k/0.jpg)](https://www.youtube.com/playlist?list=PLbTGlLS_5w63jbuWJ8sMo3TB7zW4RZDj9)
+
+▶️ [Click here to watch the playlist](https://www.youtube.com/playlist?list=PLbTGlLS_5w63jbuWJ8sMo3TB7zW4RZDj9)
+
+
 ## Project Structure
 
 - **prepare.py**: Converts JSON annotations from the `frames/` directory into YOLOv11 segmentation format, saving the labels in `dataset/labels/`.
